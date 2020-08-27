@@ -17,6 +17,6 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 
 
 <body>
-    <div>{% include test.md %}</div>
+    <div> {% include test.md %} </div>
 </body>
 
