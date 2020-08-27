@@ -15,11 +15,8 @@ Everything visible is for testing purposes **ONLY** nothing is perminant or fina
 4. More testing
 
 
-<<<<<<< HEAD
+
 <body>
     {% include test.md %}
 </body>
-=======
-{% include test.md %}
 
->>>>>>> parent of 4a62a63... Update index.md
