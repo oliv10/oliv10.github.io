@@ -5,5 +5,6 @@
 [3]: 404.md
 
 
-# Scotten Sound is currently down for maintenance.
+<div align="center"><h1> Scotten Sound is currently down for maintenance. </h1></div>
+
 Everything visible is for testing purposes **ONLY** nothing is permanent or finalized.
