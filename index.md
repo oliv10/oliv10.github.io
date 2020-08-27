@@ -17,6 +17,6 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
     {{ homeRow | markdownify }}
 </body>
 
-<footer>
+<footer class="site-footer">
     {% include footer.md %}
 </footer>
