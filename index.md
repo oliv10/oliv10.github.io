@@ -15,5 +15,5 @@ Everything visible is for testing purposes **ONLY** nothing is perminant or fina
 4. More testing
 
 <body>
-    {% include test.md}
+    {% include test.md %}
 </body>
