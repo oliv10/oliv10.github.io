@@ -2,10 +2,9 @@
 permalink: /table.html
 ---
 
-| [Home][1] | [Table][2] | [404][3] |
-
-[1]: index.md
-[2]: table.md
-[3]: 404.md
+<body>
+    {% capture homeRow %}{% include homeRow.md %}{% endcapture %}
+    {{ homeRow | markdownify }}
+</body>
 
 #### /\ This is a test for the table up there /\
