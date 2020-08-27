@@ -1,7 +1,13 @@
 ---
-permalink: /sydney.html
+permalink: /girlfriend.html
 ---
 
-# Sydney Leohr The Greatest Girlfriend EVER
+|[Home][1]|[Table][2]|[404][3]|
 
-![Sydney](/assets/images/sydney.jpg)
+[1]: index.md
+[2]: table.md
+[3]: 404.md
+
+# The Greatest Girlfriend EVER
+
+![person](/assets/images/person.jpg)
