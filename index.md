@@ -9,7 +9,7 @@
 Everything visible is for testing purposes **ONLY** nothing is perminant or finalized.
 
 ### TODO
-1. Figure out how to do inclusive markdown text
+1. Figure out how to do inclusive markdown text (DONE)
 2. About Page
 3. Other stuff
 4. More testing
