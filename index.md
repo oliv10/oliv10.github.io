@@ -6,4 +6,4 @@
 
 
 # Scotten Sound is currently down for maintenance.
-Everything visible is for testing purposes **ONLY** nothing is perminant or finalized.
+Everything visible is for testing purposes **ONLY** nothing is permanent or finalized.
