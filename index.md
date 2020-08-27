@@ -15,8 +15,6 @@ Everything visible is for testing purposes **ONLY** nothing is perminant or fina
 4. More testing
 
 
-[comment]: <> (Here is the code for inclusive tesxt down here.)
-
 <body>
     <div>{% include test.md %}</div>
 </body>
