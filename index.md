@@ -15,8 +15,7 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 4. More testing
 
 
-
 <body>
-    <div>{% include test.md %}</div>
-    <div>{% include_relative assets/test.md %}</div>
+    {% capture test.md %}{% include a_markdown_file.md %}{% endcapture %}
+    {{ test.md | markdownify }}
 </body>
