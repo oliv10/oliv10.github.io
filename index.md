@@ -16,6 +16,6 @@ Everything visible is for testing purposes **ONLY** nothing is permanent or fina
 
 
 <body>
-    {% capture test.md %}{% include a_markdown_file.md %}{% endcapture %}
+    {% capture test.md %}{% include test.md %}{% endcapture %}
     {{ test.md | markdownify }}
 </body>
