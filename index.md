@@ -13,17 +13,6 @@ Everything visible is for testing purposes **ONLY** nothing is perminant or fina
 2. About Page
 3. Other stuff
 
-<html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("test.md"); 
-    });
-    </script> 
-  </head> 
-
-  <body> 
-     <div id="includedContent"></div>
-  </body> 
-</html>
+<body>
+    {% include test.md}
+</body>
